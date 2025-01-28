@@ -8,5 +8,7 @@ using namespace std;
 
 int main()
 {
+    RAR_File();
+
     return 0;
 }

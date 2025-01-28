@@ -28,4 +28,6 @@ struct FileHead
 
 #pragma pack(pop)
 
+void RAR_File();
+
 #endif // HEADER_H_INCLUDED
